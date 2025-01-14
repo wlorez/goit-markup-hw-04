@@ -431,3 +431,8 @@ img {
   background-color: var(--OCEAN);
 }
 
+.container-footer{
+  display: flex;
+  align-items: center;
+}
+
