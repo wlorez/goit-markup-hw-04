@@ -450,3 +450,61 @@ img {
 
 }
 
+
+
+.hero-footer {
+  padding: 100px 0;
+  background-color: var(--NAVY-BLUE);
+}
+.logo-footer {
+  color: var(--IRIS);
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.logo-footer span {
+  color: var(--CLOUD);
+}
+.footer-finish {
+  color: var(--CLOUD);
+  max-width: 264px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.container-footer {
+  display: flex;
+  align-items: baseline;
+}
+.footerdiv-logo {
+  margin-right: 120px;
+}
+.social-media-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--WHİTE);
+  margin-bottom: 16px;
+}
+.footer-ul-socialmedia {
+  display: flex;
+  gap: 16px;
+}
+.footer-ul-socialmedia li a:hover {
+  background-color: #31d0aa;
+}
+.footer-ul-socialmedia li a:focus {
+  background-color: #31d0aa;
+}
+
+.media-item a{
+  display: flex;
+}
+
